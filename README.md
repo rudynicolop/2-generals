@@ -5,7 +5,7 @@ This a program that explains the 2-generals problem, an analogy for the impossib
 
 This program is written in python 3.
 
-To run this program, download `generals.py`, and in the command line run:
+To execute this program, download `generals.py`, and in the command line enter:
 
  ```bash
  python generals.py
